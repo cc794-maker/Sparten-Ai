@@ -1,6 +1,6 @@
 name: Build Sparten AI APK
 
-  on:
+  'on':
     push:
       branches: [main, master]
     workflow_dispatch:
